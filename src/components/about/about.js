@@ -26,6 +26,7 @@ export function About(){
                         <Link to="mailto:jayaseelanjs2012@gmail.com"><FontAwesomeIcon icon={faEnvelope} className=" fonticon"/> </Link>
                         <Link to="https://github.com/Jayaseelan420"> <FontAwesomeIcon icon={faGithub} className=" fonticon"/></Link>
                         <Link to="https://www.linkedin.com/in/jayaseelan-v-3588b3287"><FontAwesomeIcon icon={faLinkedin} className=" fonticon"/></Link>
+                        <Link to="https://www.linkedin.com/in/jayaseelan-v-3588b3287"><FontAwesomeIcon icon={faLinkedin} className=" fonticon"/></Link>
                         </div>
                         <br/>
                         <br/>
