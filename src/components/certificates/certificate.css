@@ -1,0 +1,11 @@
+.bgcertficate{
+    background-image: url("wallpaperjai.jpeg");
+    background-size:cover;
+    height: 100vh;
+}
+.card img:hover{
+    transform:scale(1.04)
+}
+.card:hover{
+    box-shadow: 8px 8px 15px rgba(0,0,0,.4);
+}
