@@ -4,12 +4,12 @@ import './qualification.css'
 export function Qualification(){
     return(
         <>
-    <section id="team" class="pb-5 bgqualification">
-    <div class="container">
+    <section id="team" class="bgqualification ">
+    <div class="container-fluid p-5">
         <h5 class="section-title h1 text-white">EDUCATION</h5>
         <div class="row">
             {/* <!-- Team member --> */}
-            <div class="col-xs-12 col-sm-6 col-md-4 ">
+            <div class="col-lg-4">
                 <div class="image-flip" >
                     <div class="mainflip flip-0">
                         <div class="frontside">
@@ -35,7 +35,7 @@ export function Qualification(){
             </div>
             {/* <!-- ./Team member --> */}
             {/* <!-- Team member --> */}
-            <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="col-lg-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
                         <div class="frontside">
@@ -62,7 +62,7 @@ export function Qualification(){
             </div>
             {/* <!-- ./Team member --> */}
             {/* <!-- Team member --> */}
-            <div class="col-xs-12 col-sm-6 col-md-4">
+            <div class="col-lg-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
                         <div class="frontside">

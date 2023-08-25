@@ -1,11 +1,11 @@
 .bgqualification{
     background-image: url("wallpaperjai.jpeg");
     background-size:cover;
-    height: 100vh;
+    height: 100%;
 }
-.sizing{
-    margin-top:15%;
-}
+/* .sizing{
+    margin-top:10%;
+} */
 
 .btn-primary:hover,
 .btn-primary:focus {
@@ -21,14 +21,14 @@
     border-color: #007b5e;
 }
 
-section {
+/* section {
     padding: 60px 0;
-}
+} */
 
 section .section-title {
     text-align: center;
     color: #007b5e;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-transform: uppercase;
 }
 
@@ -72,7 +72,7 @@ section .section-title {
     -webkit-transform: rotateY(0deg);
     transform: rotateY(0deg);
     z-index: 2;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .backside {

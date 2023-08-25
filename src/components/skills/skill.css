@@ -3,3 +3,108 @@
     background-size:cover;
     height: 100vh;
 }
+
+
+* {box-sizing: border-box}
+body{
+    background-image: linear-gradient(120deg, #f8f8f3 0%, #ffffff 100%);
+}
+.skillcard{
+    position: relative;
+    width: 90%;
+    margin:30px auto;
+    background-color:#111010;
+  padding-top: 10px;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(192, 65, 65, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.skillcard > h1{
+    font-family: Arial, Helvetica, sans-serif;
+   text-align: center; 
+   margin-top: 10%;
+   align-items: center;
+   color:#f8e807;
+   width:200px;
+   padding:5px 10px 5px 10px;
+    border-radius: 10px;
+    /* background-image: linear-gradient(120deg, #f6ffe0 0%, #96e6a1 100%); */
+    margin:5px auto;
+}
+.skillcard > p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    color:#fff;
+    font-weight: 900;
+    font-size: 20px;
+    width:150px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 30px;
+    border:2px solid #ffffff;
+    
+ }
+.conta {
+  margin:20px;
+  width: 90%;
+  background-color: #ddd;
+  border-radius: 30px;
+ 
+
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  margin:10px 0 20px 0;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.skills > span{
+    margin-right:20px;
+    font-weight: 900;
+    color: #f7de8d;
+}
+.html {
+    width: 90%; 
+    background-color: #f7b234;
+    
+}
+.css {width: 80%; 
+    background-color: #2ab1ff;
+   
+}
+.js {width: 65%;
+     
+     background-color: #d589ec;
+     
+    }
+.php {width: 60%; 
+    background-color: #f3e73f;
+
+    
+}
+
+.reac{
+    width: 65%; 
+    background-color: #11a0ff;
+}
+
+.mysq{
+    width: 50%; 
+    background-color: #0d0d0e;
+}
+.credit{
+    text-align: center;
+    color: #ffffff;
+    padding-bottom:5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dow{
+  margin-top:10%
+}
+
+

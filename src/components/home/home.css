@@ -1,9 +1,5 @@
-.frntalg{
-    padding-top: 20%;
-    padding-left:25%;
-}
 .bghome{
     background-image: url("wallpaperjai.jpeg");
     background-size: cover;
-    height: 100vh;
+    height: 100%;
 }

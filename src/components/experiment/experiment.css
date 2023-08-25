@@ -1,12 +1,12 @@
 .bgexp{
     background-image: url("wallpaperjai.jpeg");
-    height: 100vh;
+    height: 100%;
 }
-.marexp{
+/* .marexp{
     padding-top: 10%;
     padding-left: 40%;
 }
 .marim{
     margin-top: 10%;
     margin-left: 10%;
-}
+} */

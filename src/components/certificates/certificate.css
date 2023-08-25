@@ -1,7 +1,7 @@
 .bgcertficate{
     background-image: url("wallpaperjai.jpeg");
     background-size:cover;
-    height: 100vh;
+    height: 100%;
 }
 .card img:hover{
     transform:scale(1.04)
